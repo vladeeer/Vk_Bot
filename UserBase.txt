@@ -1,0 +1,9 @@
+$212790860
+name Влад
+rotors DBA
+wires AB-CD-FH
+
+$222194858
+name Шульга
+rotors ABC
+wires AH-GY-JI
